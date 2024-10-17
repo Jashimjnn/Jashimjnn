@@ -1,0 +1,14 @@
+.color-code{
+    color: aqua;
+}
+.custom-shadow {
+    box-shadow: 10px 10px 15px rgba(150, 148, 148, 0.5); 
+  }
+.btn-form{
+    text-decoration: none;
+    color: aqua;
+}
+.btn-form-button{
+    border: 1px solid rgb(174, 173, 173);
+    background-color: rgb(173, 171, 171);
+}
